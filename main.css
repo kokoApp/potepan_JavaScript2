@@ -1,0 +1,55 @@
+.display {
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  width: 418px;
+  height: 45px;
+  box-sizing: border-box;
+  text-align: right;
+  margin-bottom: 5px;
+}
+
+
+.number{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.zero{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.zerozero{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.point{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.operator{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.reset{
+    width: 206px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.equal{
+    width: 206px;
+    height: 30px;
+    border-radius: 5px;
+}
